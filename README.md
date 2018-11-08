@@ -1,7 +1,7 @@
 # 3D-model-of-a-small-part-of-AUI-campus-Computer-Graphics-Class
 This project is about implementing a 3D model of a small part of AUI campus using a small graphics engine.
 
-Simulating real world places is always really interesting because it allows experiencing their sight from anywhere in the planet, and if done right it can help solve some interesting optimization problems that otherwise would take a much longer time. My project is about implementing a 3D model of a small part of AUI campus.
+Simulating real world places is always really interesting because it allows experiencing their sight from anywhere in the planet, and if done right it can help solve some interesting optimization problems that otherwise would take a much longer time.
 
 After learning how to manually create a cube and a pyramid during the first part of the course, it became obvious that making any kind of more complex shapes would be extremely hard, the challenge would be more on finding out where each point of an objects geometry is rather than learning new and more complex computer graphics generation techniques.
 
