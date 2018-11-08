@@ -22,7 +22,7 @@ Link to his YouTube channel: https://www.youtube.com/user/ThinMatrix
 
 --------------------------------------------------------------------
 
-To run the 3D Engine perform he following steps:
+This project was made using Eclipse IDE. To run the 3D Engine perform he following steps:
 
 1 - Open Eclipse.
 
